@@ -1,1 +1,1 @@
-# ALJameel_Task3_Architectural_Designs
+# ALJameel Task3 Image Searching in Vector Database
